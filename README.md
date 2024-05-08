@@ -1,2 +1,2 @@
 # CTA200H
-audit course
+audited CTA200H course for SURP 2024
